@@ -1,6 +1,7 @@
 export const configuration = {
   backend: {
-    url: 'http://localhost:5000/api',
+    // url: 'http://localhost:5000/api',
+    url: 'https://infinite-sands-43976.herokuapp.com/api',
   },
 
   status_pedido: ['creado', 'entregado', 'cancelado'],
